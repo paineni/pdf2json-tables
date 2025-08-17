@@ -14,8 +14,8 @@ It runs OCR with **docTR**, flattens the spatial layout, then uses an **LLM with
 
 ## ✨ What it does
 
-![Workflow Diagram](<img width="106" height="630" alt="graph_flow" src="https://github.com/user-attachments/assets/fd82c93c-03e7-4158-81e5-ebec8dc15341" />
-)
+![Workflow Diagram](https://github.com/user-attachments/assets/fd82c93c-03e7-4158-81e5-ebec8dc15341)
+
 
 - **Reads complex PDF tables** (multi-level headers, merged cells, irregular layouts).
 - **Runs OCR** via **docTR** and exports a rich layout (words + coordinates).
