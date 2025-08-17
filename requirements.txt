@@ -1,0 +1,10 @@
+python-doctr[torch]
+langchain
+langchain-openai
+langgraph
+openai
+python-dotenv
+ipython
+torch
+torchvision
+langchain-google-genai

@@ -1,0 +1,477 @@
+{
+  "cells": [
+    {
+      "value": "23,00",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Row.Invisible.Grid1",
+        "AA"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col1"
+      ]
+    },
+    {
+      "value": "25,40",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Row.Invisible.Grid1",
+        "AA"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "115,50",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Row.Invisible.Grid1",
+        "AA"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "24,00",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid2",
+        "BB"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col1"
+      ]
+    },
+    {
+      "value": "25,10",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid2",
+        "BB"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "125,50",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid2",
+        "BB"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "DD",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid2",
+        "BB"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col5"
+      ]
+    },
+    {
+      "value": "26,00",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid3",
+        "CC"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col1"
+      ]
+    },
+    {
+      "value": "25,20",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid3",
+        "CC"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "105,50",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid3",
+        "CC"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "50,00",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid3",
+        "CC"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col4",
+        "Col4A"
+      ]
+    },
+    {
+      "value": "54,00",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1",
+        "Row.Invisible.Grid3",
+        "CC"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col4",
+        "Col4B"
+      ]
+    },
+    {
+      "value": "35,00",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3A"
+      ]
+    },
+    {
+      "value": "35,00",
+      "row_headers": [
+        "Row title",
+        "M1",
+        "Merged1"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B"
+      ]
+    },
+    {
+      "value": "21,00",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col1"
+      ]
+    },
+    {
+      "value": "135,40",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3A",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "1589,10",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3A",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "135,40",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "1589,10",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "80,00",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col4",
+        "Col4A"
+      ]
+    },
+    {
+      "value": "59,00",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col4",
+        "Col4B"
+      ]
+    },
+    {
+      "value": "EE",
+      "row_headers": [
+        "Row title",
+        "M2",
+        "Merged2"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col5"
+      ]
+    },
+    {
+      "value": "15,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col1"
+      ]
+    },
+    {
+      "value": "57,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3A",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "51,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3A",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "57,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "51,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "16,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col4",
+        "Col4A"
+      ]
+    },
+    {
+      "value": "45,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col4",
+        "Col4B"
+      ]
+    },
+    {
+      "value": "FF",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged4"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col5"
+      ]
+    },
+    {
+      "value": "62,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged5"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3A",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "19,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged5"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3A",
+        "Col2B"
+      ]
+    },
+    {
+      "value": "62,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged5"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2A"
+      ]
+    },
+    {
+      "value": "19,00",
+      "row_headers": [
+        "Row title",
+        "M4",
+        "Merged5"
+      ],
+      "col_headers": [
+        "Table Title",
+        "Col2",
+        "Col3B",
+        "Col2B"
+      ]
+    }
+  ]
+}
