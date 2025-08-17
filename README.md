@@ -48,23 +48,34 @@ It runs OCR with **docTR**, flattens the spatial layout, then uses an **LLM with
 
 ## 🔧 Installation
 
+You can set up the environment in two ways:
+
+### Option 1 — Using Conda (recommended)
+
+```bash
+# Create environment from environment.yaml
+conda env create -f environment.yaml
+
+# Activate the environment (as defined in environment.yaml)
+conda activate myenv
+```
+
+### Option 2 — Using pip + requirements.txt
+
 ```bash
 # 1) Create and activate a virtual environment
 python -m venv .venv
-# Windows: .venv\Scriptsctivate
+# Windows: .venv\Scripts\activate
 # macOS/Linux:
 source .venv/bin/activate
 
-# 2) Install dependencies
+# 2) Install all dependencies
 pip install -U pip
-
-# Core libs
-pip install "python-doctr[torch]" "torch>=2.1" torchvision  # OCR backend
-pip install langgraph langchain-core langchain-openai
-pip install pydantic==2.* ipython pillow
+pip install -r requirements.txt
 ```
 
-> **docTR** requires a Torch backend; the extra `[torch]` installation pulls a compatible stack for most setups. If you already have CUDA-specific Torch wheels, install those first, then `python-doctr` without extras.
+> **Note**: If you use a CUDA-specific PyTorch build, install it first, then run `pip install -r requirements.txt --no-deps`.
+
 
 ## 🔐 Environment
 
@@ -79,7 +90,7 @@ export GEMINI_API_KEY=your_api_key_here
 ## 🚀 Usage
 
 ```bash
-python pdf2json.py
+python pdf2json_table_exractor.py
 ```
 
 What happens:
